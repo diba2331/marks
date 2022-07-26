@@ -1,0 +1,11 @@
+score=int(input('inter score:'))
+if score >=90:
+    print( 'Grade is A+')
+elif score >=70:
+    print('grade is A-')
+elif score >=60:
+    print('grade is A')
+elif score >=50:
+    print('grade is b+')
+else:
+    print('faill')
